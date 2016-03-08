@@ -1,0 +1,28 @@
+name: Dale Wagler Design
+favicon: null
+layout_spectrum: 0.917633542791009
+typography_spectrum: 0.18069709790870547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.08792448230087757
+  lightness: 0.63343161996454
+  saturation: 0.5602754408027977
+  rhythmicContrast: 0.030829573748633265
+purpose: []
